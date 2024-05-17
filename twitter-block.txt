@@ -1,2 +1,2 @@
-! 2023-11-21 https://twitter.com
 twitter.com##div.css-175oi2r[data-testid="placementTracking"] > article.css-175oi2r[data-testid="tweet"]
+x.com##div.css-175oi2r[data-testid="placementTracking"] > article.css-175oi2r[data-testid="tweet"]
